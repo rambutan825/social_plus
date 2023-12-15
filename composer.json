@@ -114,7 +114,7 @@
         "lokielse/omnipay-wechatpay": "^3.0",
         "medz/cors": "^1.5",
         "mavinoo/laravel-batch": "^2.2",
-        "medz/gb-t-2260": "^1.0",
+        "medz/gb-t-2260": "^2.0",
         "medz/laravel-jpush-notification-channel": "^1.0",
         "overtrue/easy-sms": "^1.1.24",
         "pingplusplus/pingpp-php": "^2.2",
