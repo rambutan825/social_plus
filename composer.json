@@ -116,7 +116,7 @@
         "mavinoo/laravel-batch": "^2.2",
         "medz/gb-t-2260": "^1.0",
         "medz/laravel-jpush-notification-channel": "^1.0",
-        "overtrue/easy-sms": "^1.1.24",
+        "overtrue/easy-sms": "^2.5.0",
         "pingplusplus/pingpp-php": "^2.2",
         "predis/predis": "^1.1",
         "symfony/finder": "^5.1",
