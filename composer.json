@@ -94,7 +94,7 @@
     "require": {
         "php": "^7.3|^7.4|^8.0",
         "aliyuncs/oss-sdk-php": "^2.4",
-        "doctrine/dbal": "^2.12",
+        "doctrine/dbal": "^3.8",
         "erusev/parsedown": "^1.7",
         "ezyang/htmlpurifier": "^4.13",
         "fideloper/proxy": "^4.4",
